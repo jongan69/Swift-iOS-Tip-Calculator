@@ -1,5 +1,6 @@
 # Swift-iOS-Tip-Calculator
 
+![GitHub Logo](/images/logo.png)
 
 
 This app was built as part of the prework for CodePaths Tech Fellow Program
