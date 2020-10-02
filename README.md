@@ -1,6 +1,6 @@
 # Swift-iOS-Tip-Calculator
 
-![Calculator Logo](Tip Calculator.png)
+![Calculator Logo](Tip_Calculator.png)
 
 
 This app was built as part of the prework for CodePaths Tech Fellow Program
